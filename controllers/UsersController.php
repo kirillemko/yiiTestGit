@@ -43,7 +43,7 @@ class UsersController extends Controller
 
     public function actionCreate()
     {
-
+            asdfasfasdf
     }
 
     public function actionUpdate()
